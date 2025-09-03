@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Dancing+Script:wght@400;700&family=Inter:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-ocre: #D2B48C;
+  --color-beige-clair: #F5E6D3;
+  --color-rouge-brique: #8B4513;
+  --color-rouge-vin: #722F37;
+  --color-dore: #DAA520;
+  --color-charbon: #2C2C2C;
+
+  --font-serif: 'Playfair Display', serif;
+  --font-script: 'Dancing Script', cursive;
+  --font-sans: 'Inter', 'Roboto', sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
