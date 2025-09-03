@@ -1,2 +1,0 @@
-/* Redirige toutes les requêtes non trouvées vers index.html pour le routage côté client de React */
-/index.html 200
