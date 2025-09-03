@@ -8,19 +8,19 @@ const FeaturedProductsSection = () => {
       id: 1,
       name: 'Petit Pâté Traditionnel',
       description: 'La recette originale, un mélange savoureux de veau et de porc.',
-      image: '/placeholder-pate-trad.jpg', // Placeholder image
+      image: '/placeholder-pate-trad-detail.jpg', // Placeholder image
     },
     {
       id: 2,
       name: 'Petit Pâté à la Brandade',
       description: 'Une variante audacieuse avec la célèbre brandade de morue nîmoise.',
-      image: '/placeholder-pate-brandade.jpg', // Placeholder image
+      image: '/placeholder-pate-brandade-detail.jpg', // Placeholder image
     },
     {
       id: 3,
       name: 'Coffret Découverte',
       description: 'Assortiment de nos meilleures spécialités, idéal pour offrir ou partager.',
-      image: '/placeholder-coffret.jpg', // Placeholder image
+      image: '/placeholder-coffret-produits.jpg', // Placeholder image
     },
   ];
 
